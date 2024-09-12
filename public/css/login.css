@@ -1,0 +1,15 @@
+body {
+    height: auto;
+    padding: auto;
+    margin: 20px;
+    overflow: hidden;
+}
+
+.loginform {
+    position: relative;
+    top: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
